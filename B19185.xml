@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties reply, to the answer of both Houses concerning a treaty of accommodation also, the humble petition and answer of the Lords and Commons to the said reply sent to the Kings Most Excellent Majesty by the Lord Spencer</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19185</idno><idno type="EEBO-CITATION">19729296</idno>
+  <idno type="VID">205621</idno>
+  <idno type="EEBO-PROQUEST">2240869219</idno>
+  
+            <idno type="STC">Wing C2742</idno>
+            <idno type="OCLC">19729296</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205621)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties reply, to the answer of both Houses concerning a treaty of accommodation also, the humble petition and answer of the Lords and Commons to the said reply sent to the Kings Most Excellent Majesty by the Lord Spencer</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 9. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205621:1"/>
+            <pb facs="tcp:205621:1"/>
+            <p>HIS MAJESTIES REPLY, TO THE <hi>ANSWER</hi> OF both Houses concerning a treaty of Accommodation.</p>
+            <p>ALSO, The humble Petition and Answer of the Lords and Commons to the said REPLY sent to the Kings most Excellent Majesty by the Lord <hi>Spencer.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis 8 Septemb. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons assembled in Parliament, That this Reply together with the Answer be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Wright.</hi> Septemb. 9. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205621:2"/>
+            <pb facs="tcp:205621:2"/>
+            <head>His MAJESTIES Reply to an Answer sent by the two Houses of Parliament to His Majesties Message of the 25. of <hi>August,</hi> concerning a Treatie of Accommodation.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E will not repeat what meanes We have used to prevent the dan<g ref="char:EOLhyphen"/>gerous and distracted estate of the Kingdome, nor how those means have been interpreted, because <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eing desirous to avoid effusion of blood, We <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> willing to decline all memory of former <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tternesse that might make Our Offer of a Treaty lesse readily accepted.</p>
+            <p>We never did Declare, nor ever intended <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o Declare, both Our Houses of Parliament Traitours, or set up Our Standard against <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hem, and much lesse to put them and this kingdome out of Our Protection: We ut<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erly Professe against it before GOD and the
+<pb facs="tcp:205621:3"/> World. And further, to remove all poss<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Scruples which may hinder the Treaty much desired by Vs; We hereby Promise, that a day be appointed by you for the rev<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing of your Declarations against all Perso<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> as Traitours or otherwayes, for assisting Vs, Wee shall with all cheerefulnesse up<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the same day recall Our Proclamations a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Declarations, and take downe Our Sta<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dard: In which Treaty, We shall be read<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to grant any thing that shall be really for th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> good of Our Subjects; Conjuring you<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> consider the bleeding condition of <hi>Ireland,</hi> a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the dangerous condition of <hi>England,</hi> in<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> high a degree as by these Our Offers W<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> have declared Our Selfe to do: And assuri<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> you that Our chiefe desire in this World<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to beget a good understanding and mutua<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> confidence betwixt Vs and Our two House<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of Parliament.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:205621:3"/>
+            <head>
+               <figure>
+                  <figDesc>royal badges of house of Stuart: Tudor Rose, Scottish Thistle, Fleur-de-lys, Harp</figDesc>
+               </figure> To the KINGS most Excellent MAJESTY, The humble Answer and Petition of the Lords and Commons assembled in PARLIAMENT, Vnto the KINGS last Message.</head>
+            <opener>
+               <salute>May it please Your Majesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F we the Lords &amp; Commons in Parliament assembled should repeat al the waies we have ta<g ref="char:EOLhyphen"/>ken, the endeavours we have u<g ref="char:EOLhyphen"/>sed, &amp; the expressions we have made unto Your Majesty to prevent those distractions and dangers Your Majesty speakes of likely to fall upon this
+<pb facs="tcp:205621:4"/> Kingdome, we should too much enlarge th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Reply; Therefore as we humbly, so shall w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> onely let Your Majesty know, that we canno<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> recede from our former Answer, for the rea<g ref="char:EOLhyphen"/>sons therein expressed; For that Your Majesty hath not taken down Your Standard, recal<g ref="char:EOLhyphen"/>led Your Proclamations and Declarations, whereby you have declared the actions of both Houses of Parliament to be treasona<g ref="char:EOLhyphen"/>ble, and their persons Traytors; And you have published the same since your Message of the 25 of <hi>August,</hi> by Your late Instructions sent to Your Commissioners of Array: Which Standard being taken downe, and the Decla<g ref="char:EOLhyphen"/>rations, Proclamations, and Instructions re<g ref="char:EOLhyphen"/>called, If Your Majesty shall then upon this our humble Petition, leaving your Forces, re<g ref="char:EOLhyphen"/>turne unto Your Parliament, and receive their faithfull advice, Your Majesty will finde such expressions of our fidelities and duties, as shall assure you that Your safety, honour, and greatnesse, can onely be found in the affecti<g ref="char:EOLhyphen"/>ons of Your People, and the sincere counsels of Your Parliament, whose constant and un<g ref="char:EOLhyphen"/>discouraged endeavours and consultations have passed thorough difficulties unheard of,
+<pb facs="tcp:205621:4"/> onely to secure your Kingdomes from the vio<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent mischiefes and dangers now ready to fall <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pon them and every part of them, who deserve <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>etter of Your Majesty, and can never allow <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hemselves (representing likewise your whole Kingdome) to be ballanced with those persons <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hose desperate dispositions and counsels pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>aile stil so to interrupt all our endeavours for the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elieving of bleeding <hi>Ireland,</hi> as we may feare our <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>abours and vast expences will be fruitlesse to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat distressed Kingdome. As Your presence is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hus humbly desired by us, so is it in our hopes <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>our Majesty will in your reason beleeve there is <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o other way then this to make Your selfe happy <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd your Kingdome safe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
